@@ -49,7 +49,8 @@ To measure VTh or Voc
 Thevenin’s equivalent circuit
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
-
+CALCULATION
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/d797a000-23fd-4d81-9c9f-c7896c99b797" />
 
 **PROCEDURE:**
 
@@ -78,3 +79,5 @@ Thevenin’s equivalent circuit
     Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+RESULT
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/3e2aafb8-4124-4797-978b-6678c907d50d" />
